@@ -1,0 +1,92 @@
+.navigation{
+    padding:0;
+    height:  80px;
+  }
+  .icons{
+    background-color: white;
+    color:#0a66c2;
+    padding: 0;
+   
+    margin-left: 50px;
+    font-size:30px;
+    display: inline;
+    
+   
+  }
+  .not{
+    margin-left:20px;
+    text-align: center;
+  
+  }
+  .image{
+    width: 30px;
+    height: auto;
+    border-radius: 30%;
+    
+  }
+  .custom{
+    margin-left:300px;
+   ;
+  }
+  .custom1{
+    background-color: #f5f5f5;
+    color: white;
+    height: 80vh;
+    
+  }
+  
+  
+  .images{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    margin-top: 5px;
+  }
+  .ico{
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+    height: 30px solid black;
+  }
+  .custom2{
+    text-align: left;
+  }
+  .custo{
+    color: black;
+  }
+  .custo1{
+    background-color: white;
+    color: black;
+    
+    
+    
+    
+  }
+  .emma{
+    width: 120px;
+    height: auto;
+    
+    
+  }
+  .custom4{
+    background-color: #f5f5f5;
+    color: white;
+    
+  }
+  
+  .feedBox{
+    height: 50px;
+  }
+  .division{
+    background-color: #f5f5f5;
+  }
+  .manbut{
+    background-color: #337ab7;
+  }
+  .down{
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    color:white;
+  }
